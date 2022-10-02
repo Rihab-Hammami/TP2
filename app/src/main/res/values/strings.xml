@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">IntentApp</string>
+    <string name="btn1">bouton1</string>
+    <string name="btn2">bouton2</string>
+    <string name="btn3">bouton3</string>
+    <string name="btn_calendar"></string>
+    <string name="ed1">Title</string>
+    <string name="ed2">Description</string>
+    <string name="ed3">location</string>
+    <string name="Golf_txt">Le Golf Citrus de Hammamet, choisi par la fédération pour abriter cette échéance, sera le théâtre de cette compétition pour la deuxième fois dans une épreuve qu’accueille notre pays pour la quatrième fois depuis 2010.
+    </string>
+    <string name="Golf2_txt">Ce sera le grand retour en Tunisie, des compétitions de golf à l’échelle arabe, après deux ans d’arrêt.
+
+En effet l\’Union Arabe a choisi notre pays pour signer ce grand retour tant espéré par toutes les fédérations membres, ainsi que tous les pratiquants de ce sport dans le monde arabe, avec l’organisation des deux compétitions inscrites au calendrier de l’année 2022 à savoir, le championnat des catégories jeunes et dames cette semaine à Hammamet, ensuite le championnat arabe « Hommes » en décembre au Golf la Cigale de Tabarka.
+
+Ainsi le Golf Citrus de Hammamet, choisi par la fédération pour abriter cette échéance, sera le théâtre de cette compétition pour la deuxième fois dans une épreuve qu’accueille notre pays pour la quatrième fois depuis 2010.
+
+Cette édition, la 21ème du genre pour les cadets(U15) et les juniors garçons (U18), et la 12ème pour les dames, sera la plus grande et la plus garnie puisqu’ outre les épreuves des cadets et juniors garçons et seniors dames, deux autres sont épinglées au programme.
+
+Le championnat des minimes garçons (U13) qui sera à sa deuxième édition et le championnat des jeunes filles(U15) qui devra consacrer la première championne arabe féminine de cette catégorie, dans l’histoire.
+
+En tout ils seront une centaine d’athlètes représentant 11 pays, l’Arabie Saoudite, le Koweït, le Bahreïn, le Qatar, Oman, les EAU, la Jordanie, l’Egypte, la Somalie, la Libye et le paye hôte la Tunisie qui en découdront trois jours durant a partir de jeudi matin, en vue de truster les différents titres mis en jeu dans les cinq épreuves inscrites au programme.
+
+Une chose est certaine, au Golf Citrus nous allons découvrir des nouveaux talents, les champions de demain appelés à prendre la relève dans un avenir proche. Ce qui promet d’ailleurs, une lutte très serrée entre les jeunes des différentes nations présentes, notamment dans les pays du golf où ce sport trouve de plus en plus d’adeptes et connait un essor remarquable avec les très gros moyens mis à la disposition des fédérations de ces pays.
+
+La Tunisie qui sera représentée par 15 joueurs, cinq filles et dix garçons tentera de faire mieux que la précédente édition et ce en dépit de l’absence de Gozlene Saki. La joueuse tunisienne habituée des podiums à cette joute depuis 2010 ne pourra pas, malheureusement défendre son titre, pour des raisons professionnelles.
+
+Sa dauphine de l’édition écoulée, Kenza Ladhari qui défendra les couleurs tunisiennes en compagnie de sa sœur Eya, aura une belle carte à faire valoir en vue de remporter son deuxième titre arabe individuel après celui de 2015.
+
+La Tunisie comptera aussi sur des jeunes aux ambitions sans limites pour gravir des marches sur les podiums et donner plein satisfaction.</string>
+
+    <string name="ons_txt">La Tunisienne Ons Jabeur, N.2 mondiale, a déclaré qu’elle espère remporter l’Open du Jasmin organisé du 1er au 9 octobre courant à Monastir</string>
+
+    <string name="ons2_txt">Lors d’une conférence de presse tenue dimanche en marge du tournoi, la Tunisienne a précisé que l’Open du Jasmin réunit des joueuses de haut niveau mondial, affirmant qu’elle est prête à relever ce nouveau défi et faire plaisir au public tunisien.
+
+Elle a reconnu néanmoins que son premier match du tournoi face à la l’Américaine Ann Li ne sera pas facile, mais elle tentera de bien gérer la pression comme ce fut le cas dans ses précédents matches et de se donner à fond pour assurer sa qualification au second tour.
+
+La finaliste de l’US Open a, par ailleurs, salué la bonne organisation de l’Open du Jasmin ce qui prouve, a-t-elle dit, que la Tunisie est capable d’accueillir des tournois de tennis d’envergure internationale, souhaitant voir ce genre de tournoi accueilli par d’autres villes tunisiennes.
+
+Il est à rappeler qu’Ons Jabeur débutera le tournoi (250 points) en affrontant lundi à partir de 18h00, l’Américaine Ann Li (62e mondiale).
+
+Les matches de qualification se poursuivent ce dimanche et lundi et à l’issue desquels six joueuses rejoindront le tableau final.
+
+Après l’Open du Jasmin, la Tunisienne disputera le tournoi final WTA, qui est le tournoi de fin de saison du circuit féminin, prévu du 31 octobre au 7 novembre au Texas, aux États-Unis.</string>
+
+
+</resources>
